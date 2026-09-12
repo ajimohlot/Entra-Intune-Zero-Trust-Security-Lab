@@ -26,6 +26,26 @@ Rather than treating a successfully created policy as proof that a security cont
 The final stage brought identity and endpoint security together by using **Intune device compliance as a Conditional Access signal**, demonstrating how access could be granted, blocked and restored based on the security state of the device.
 
 ---
+## Table of Contents
+
+- [Lab Environment](#lab-environment)
+- [Technologies & Skills](#technologies--skills)
+- [Project Architecture](#project-architecture)
+- [1. Microsoft Entra Conditional Access](#1-microsoft-entra-conditional-access)
+- [2. Microsoft Entra Authentication Security](#2-microsoft-entra-authentication-security)
+- [3. Microsoft Intune Endpoint Security](#3-microsoft-intune-endpoint-security)
+- [4. Microsoft Intune BitLocker & Device Protection](#4-microsoft-intune-bitlocker--device-protection)
+- [5. Zero Trust – Conditional Access & Device Compliance](#5-zero-trust--conditional-access--device-compliance)
+- [Troubleshooting Highlights](#troubleshooting-highlights)
+- [Verification Methodology](#verification-methodology)
+- [Video Series](#video-series)
+- [Key Takeaways](#key-takeaways)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Related Project](#related-project)
+- [Portfolio](#portfolio)
+
+
+---
 
 ## Lab Environment
 
